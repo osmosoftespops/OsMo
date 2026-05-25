@@ -6,7 +6,7 @@ Soy Ingeniero Electronico de Venezuela/España apasionado por programacion, auto
 
 *   🔭 Actualmente trabajando en varios proyectos personales.
 *   🌱 Aprendiendo a fondo Python, modbus, KNX, KOP, FUP, .Net, assembler. 
-*   📫 Cómo contactarme: xosmox@gmail.com o en **[LinkedIn](enlace-a-tu-linkedin)**
+*   📫 Cómo contactarme: xosmox@gmail.com o en **[LinkedIn](https://www.linkedin.com/in/oscar-a-mora-r-66898011a/)**
 *   ⚡ Dato curioso: **[Algo divertido sobre ti, ej: ¡El café es el 90% de mi código!]**
 
 ---
