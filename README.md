@@ -1,14 +1,12 @@
-# ¡Hola! 👋 Soy [Tu Nombre/Usuario]
+# ¡Hola! 👋 Soy Oscar A Mora R
 
 ### 👨‍💻 Sobre mí
 
-Soy un/a **[Tu Profesión, ej: Desarrollador Frontend / Científico de Datos]** de [Tu País/Ciudad] apasionado/a por crear [lo que te gusta crear, ej: aplicaciones web rápidas e intuitivas].
+Soy Ingeniero Electronico de Venezuela/España apasionado por programacion, automatizacion, inmotica y domotica.
 
-*   🔭 Actualmente trabajando en **[Nombre de tu proyecto principal]**
-*   🌱 Aprendiendo a fondo **[Tecnología que estás estudiando, ej: React, Python, Docker]**
-*   👯 Buscando colaborar en **[Tipo de proyectos, ej: proyectos open-source de accesibilidad]**
-*   💬 Pregúntame sobre **[Temas que dominas, ej: JavaScript, diseño UI/UX]**
-*   📫 Cómo contactarme: **[Tu Email]** o en **[LinkedIn](enlace-a-tu-linkedin)**
+*   🔭 Actualmente trabajando en varios proyectos personales.
+*   🌱 Aprendiendo a fondo Python, modbus, KNX, KOP, FUP, .Net, assembler. 
+*   📫 Cómo contactarme: xosmox@gmail.com o en **[LinkedIn](enlace-a-tu-linkedin)**
 *   ⚡ Dato curioso: **[Algo divertido sobre ti, ej: ¡El café es el 90% de mi código!]**
 
 ---
