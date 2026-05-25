@@ -14,17 +14,16 @@ Soy Ingeniero Electronico de Venezuela/España apasionado por programacion, auto
 ### 🛠️ Lenguajes y Herramientas
 
 <!-- Aquí usamos escudos de Shields.io. Puedes buscar más en su web -->
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
+![Assembler](https://img.shields.io/badge/Assembler-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Modbus](https://img.shields.io/badge/Modbus-0E4C13?style=for-the-badge)
+![KNX](https://img.shields.io/badge/KNX-3E4C13?style=for-the-badge)
+![.net](https://img.shields.io/badge/.NET-3E4C13?style=for-the-badge&logo=.NET&logoColor=white)
 ---
 
-### 📊 Mis Estadísticas
+<!-- ### 📊 Mis Estadísticas
 
-<!-- Reemplaza "TU_USUARIO" con tu nombre de usuario real de GitHub en los siguientes enlaces -->
+ Reemplaza "TU_USUARIO" con tu nombre de usuario real de GitHub en los siguientes enlaces 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radium" alt="Estadísticas de GitHub" />
@@ -35,8 +34,9 @@ Soy Ingeniero Electronico de Venezuela/España apasionado por programacion, auto
 </p>
 
 ---
+-->
 
 ### 🚀 Proyectos Destacados
 
-*   **[Nombre del Proyecto 1](enlace-al-repo):** Breve descripción de lo que hace y las tecnologías que usaste.
-*   **[Nombre del Proyecto 2](enlace-al-repo):** Breve descripción de lo que hace y las tecnologías que usaste.
+*   [Envio de IMs usando un bot de Telegram](enlace-al-repo): Envio de mensajes usando un bot de telegram en Phyton.
+*   [Monitoreo de datos](enlace-al-repo): Extraccion de datos de un archivo de excel
